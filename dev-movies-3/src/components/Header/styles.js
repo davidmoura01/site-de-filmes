@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 
 export const Container = styled.div`
-min-height: 100px;
+min-height: 20px;
 z-index: 99;
 position: fixed;
 top: 0;
@@ -16,7 +16,7 @@ transition: background-color 0.6s ease-in-out;
 
 
 img {
-    width: 25%;
+    width: 15%;
 }
 `
 
